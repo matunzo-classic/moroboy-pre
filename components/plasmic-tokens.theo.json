@@ -1,0 +1,29 @@
+{
+  "props": [
+    {
+      "name": "Large copy",
+      "type": "fontsize",
+      "value": "24px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "5qEnKKbjrRfdMgFr6HPs6g",
+        "id": "MLc2lpS_Y8OO"
+      }
+    },
+    {
+      "name": "letsee",
+      "type": "spacing",
+      "value": "150px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "5qEnKKbjrRfdMgFr6HPs6g",
+        "id": "GnelfrUA9sCi"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}
